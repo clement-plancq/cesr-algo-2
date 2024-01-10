@@ -12,11 +12,11 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
 ## Planning
 
 - Mercredi 10/01/2024 : 14h-16h salle Rapin
-    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-1.ipynb) [seance 1](notebooks-html/seance-1.html)
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-1.ipynb) [seance 1](seance-1.ipynb)
  
     - Exercices : [Power of Thor — episode 1 (codingame)](https://www.codingame.com/training/easy/power-of-thor-episode-1)
     
-- Mercredi 17/01/2024 : 14h-16h FR15 (nok)
+- Mercredi 17/01/2024 : 9h45-11h45 FR15 (nok)
 - Mercredi 24/01/2024 : 10h-12h FR16
 - Lundi 29/01/2024 : 9h-11h salle Margolin
 - Lundi 05/02/2024 : 9h-11h salle Margolin
