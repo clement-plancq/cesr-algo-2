@@ -17,6 +17,10 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
     - Exercices : [Power of Thor — episode 1 (codingame)](https://www.codingame.com/training/easy/power-of-thor-episode-1)
     
 - Mercredi 17/01/2024 : 9h45-11h45 FR15
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-2.ipynb) [seance 2](seance-2.ipynb)
+
+    - Exercices : [Temperatures (codingame)](https://www.codingame.com/ide/puzzle/temperatures) et sites patrimoniaux (voir notebook)
+
 - Mercredi 24/01/2024 : 10h-12h FR16
 - Lundi 29/01/2024 : 9h-11h FR15
 - Lundi 05/02/2024 : 9h-11h FR15
