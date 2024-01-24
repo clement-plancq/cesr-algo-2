@@ -22,6 +22,10 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
     - Exercices : [Temperatures (codingame)](https://www.codingame.com/ide/puzzle/temperatures) et sites patrimoniaux (voir notebook)
 
 - Mercredi 24/01/2024 : 10h-12h FR16
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-3.ipynb) [seance 3](seance-3.ipynb)
+
+    - Exercices : Finir le travail sur [https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/](https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/) + essayez [MIME Type (codingame)](https://www.codingame.com/ide/puzzle/mime-type)
+
 - Lundi 29/01/2024 : 9h-11h FR15
 - Lundi 05/02/2024 : 9h-11h FR15
 - Lundi 12/02/2024 : 9h-11h FR15
