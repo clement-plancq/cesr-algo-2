@@ -6,16 +6,24 @@ import math
 
 n = int(input())  # the number of temperatures to analyse
 temps = input()  # the n temperatures expressed as integers ranging from -273 to 5526
-# liste en compréhension pour convertir les températures en entiers
-temps = [int(temp) for temp in temps.split()]
+temperatures = []
+
+# stockage des températures dans une liste
+# conversion en entiers
+for temp in temps.split(" "):
+    temperatures.append(int(temp))
+
+# ou liste en compréhension pour convertir les températures en entiers
+#temperatures = [int(temp) for temp in temps.split()]
+  
 # on utilise une variable temporaire pour stocker la température la plus grande
 temp_ref = None 
 
 if n == 0:
     print(0)
 else:
-    temp_ref = temps[0]
-    for temp in temps:
+    temp_ref = temperatures[0]
+    for temp in temperatures:
         # on compare la température courante avec la température la plus grande
         if abs(temp) < abs(temp_ref):
             temp_ref = temp
