@@ -27,6 +27,10 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
     - Exercices : ~~Finir le travail sur [https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/](https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/) +~~ essayez [MIME Type (codingame)](https://www.codingame.com/ide/puzzle/mime-type)
 
 - Lundi 29/01/2024 : 9h-11h FR15
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-4.ipynb) [seance 4](seance-4.ipynb)
+    
+    - Exercices : [The Descent (codingame)](https://www.codingame.com/ide/puzzle/the-descent)
+
 - Lundi 05/02/2024 : 9h-11h FR15
 - Lundi 12/02/2024 : 9h-11h FR15
 - Jeudi 22/02/2024 : 9h-11h FR15
