@@ -33,6 +33,7 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
 
 - Lundi 05/02/2024 : 9h-11h FR15
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-5.ipynb) [seance 5](seance-5.ipynb)
+    - Exercices : prénoms (voir Notebook)
 
 - Lundi 12/02/2024 : 9h-11h FR15
 - Jeudi 22/02/2024 : 9h-11h FR15
