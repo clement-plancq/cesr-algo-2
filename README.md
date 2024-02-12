@@ -37,6 +37,7 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
 
 - Lundi 12/02/2024 : 9h-11h FR15
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-6.ipynb) [seance 6](seance-6.ipynb)
+    - Exercices : Finir le travail sur [https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/](https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/) (voir [seance 3](seance-3.ipynb))
 
 - Jeudi 22/02/2024 : 9h-11h FR15
 - Lundi 26/02/2024 : 10h-12h FR15
