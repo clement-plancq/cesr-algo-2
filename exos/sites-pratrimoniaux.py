@@ -5,11 +5,16 @@ Utilisez le module csv et une ou des listes pour extraire les communes, départe
 """
 
 import csv
+import sys
 
 def main():
     spr_cvl = []
-
-    with open('../data/liste-des-sites-patrimoniaux-remarquables-spr.csv') as input_file:
+    if len(sys.argv) < 2:
+        exit("Il manque le fichier csv en argument, banane !")
+        
+    input_csv = sys.argv[1]
+    # with open("../data/sites-patrimoniaux.csv") as input_file:
+    with open(input_csv) as input_file:
         csv_reader = csv.DictReader(input_file, delimiter=';')
         for row in csv_reader:
             if row['Région'] == "CENTRE-VAL DE LOIRE":

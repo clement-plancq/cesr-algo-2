@@ -40,6 +40,11 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
     - Exercices : Finir le travail sur [https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/](https://data.centrevaldeloire.fr/explore/dataset/monuments-sites-musees-en-region-centre-val-de-loire/table/) (voir [seance 3](seance-3.ipynb))
 
 - Jeudi 22/02/2024 : 9h-11h FR15
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-7.ipynb) [seance 7](seance-7.ipynb)
+    - Exercices : 
+        - Utilisez le module `requests` et l’API de prenoms pour afficher un graphe du nombre de naissances depuis 2000 pour un prénom donné
+        - Utilisez l’API de https://data.education.gouv.fr/explore/dataset/fr-en-ips_lycees/ pour lister par ordre décroissant les IPS des lycées de Tours (ou de la ville qui vous plaira)
+
 - Lundi 26/02/2024 : 10h-12h FR15
 - Lundi 11/03/2024 : 14h-16h salle Rapin
 - Lundi 18/03/2024 : 14h-16h salle Rapin
