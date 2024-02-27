@@ -45,7 +45,9 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
         - Utilisez le module `requests` et l’API de prenoms pour afficher un graphe du nombre de naissances depuis 2000 pour un prénom donné
         - Utilisez l’API de https://data.education.gouv.fr/explore/dataset/fr-en-ips_lycees/ pour lister par ordre décroissant les IPS des lycées de Tours (ou de la ville qui vous plaira)
 
-- Lundi 26/02/2024 : 10h-12h FR15
+- Mardi 27/02/2024 : 10h-12h FR15
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-8.ipynb) [seance 8](seance-8.ipynb)
+
 - Lundi 11/03/2024 : 14h-16h salle Rapin
 - Lundi 18/03/2024 : 14h-16h salle Rapin
 - Mercredi 27/03/2024 : 14h-16h FR15
