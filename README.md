@@ -4,8 +4,9 @@ Supports de cours pour le Master mention Humanités Numériques du [CESR](https:
 
 ## Évaluation
 
- - devoirs : 60%
- - projet : 40%
+ - devoirs : 40%
+ - devoir sur table : 30%
+ - projet : 30%
 
 Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
 
@@ -49,7 +50,10 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-8.ipynb) [seance 8](seance-8.ipynb)
 
 - Lundi 11/03/2024 : 14h-16h salle Rapin
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-9.ipynb) [seance 9](seance-9.ipynb)
+
 - Lundi 18/03/2024 : 14h-16h salle Rapin
 - Mercredi 27/03/2024 : 14h-16h FR15
 - Mercredi 03/04/2024 : 15h-17h salle Margolin
+    - Devoir sur table
 
