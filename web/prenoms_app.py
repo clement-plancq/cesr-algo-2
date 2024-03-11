@@ -23,25 +23,3 @@ def prenom_result():
         )
     graph_json = plotly.io.to_json(graph)
     return render_template('prenom_result.html', firstname=firstname, res=res, graph_json=graph_json)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    #graph = go.Bar(
-    #    x=list(res.keys()), y=list(res.values())
-    #    )
-    #graph_json = plotly.io.to_json(graph)
-    #return render_template('prenom_result.html', firstname=firstname, res=res, #graph_json=graph_json)
