@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-2.29.1.min.js" charset="utf-8"></script>
+    <title>Prénoms</title>
+</head>
+
+<body>
+    <h2>Évolution du prénom {{ firstname }}</h2>
+
+    <div id="graph"></div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Année</th>
+                <th>Nombre de naissances</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for year in res %}
+            <tr>
+                <td>{{ year }}</td>
+                <td>{{ res[year] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <script>
+        var graphData = {{ graph_json | safe }};
+        var data = [graphData];
+        Plotly.newPlot('graph', data);
+    </script>
+</body>
+
+</html>
