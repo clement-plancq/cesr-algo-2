@@ -33,7 +33,8 @@
     <script>
         var graphData = {{ graph_json | safe }};
         var data = [graphData];
-        Plotly.newPlot('graph', data);
+        var config = { responsive: true }
+        Plotly.newPlot('graph', data, config);
     </script>
 </body>
 

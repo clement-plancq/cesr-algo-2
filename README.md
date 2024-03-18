@@ -54,6 +54,8 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
     - Exercice : Améliorer le traitement de la requête utilisateur en neutralisant les différences de casse du prénom
 
 - Lundi 18/03/2024 : 14h-16h salle Rapin
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-10.ipynb) [seance 10](seance-10.ipynb)
+    
 - Mercredi 27/03/2024 : 14h-16h FR15
 - Mercredi 03/04/2024 : 15h-17h salle Margolin
     - Devoir sur table
