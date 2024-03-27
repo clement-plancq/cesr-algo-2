@@ -2,3 +2,5 @@ plotly
 seaborn
 matplotlib
 requests
+lxml
+beautifulsoup4
