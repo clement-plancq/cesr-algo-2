@@ -60,5 +60,7 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clement-plancq/cesr-algo-2/HEAD?labpath=seance-11.ipynb) [seance 11](seance-11.ipynb)
 
 - Mercredi 03/04/2024 : 15h-17h salle Margolin
-    - Devoir sur table
+    - [Devoir sur table](devoir.md)
+
+- [Mini-projet](projet.md)
 
