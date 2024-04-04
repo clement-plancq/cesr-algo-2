@@ -62,5 +62,8 @@ Vous me remettez des *scripts* sous forme de fichiers *.py, pas des notebooks
 - Mercredi 03/04/2024 : 15h-17h salle Margolin
     - [Devoir sur table](devoir.md)
 
+- Jeudi 04/04/2024 : 10h-12h salle Margolin
+    - [Topo git/github](git-github.md)
+
 - [Mini-projet](projet.md)
 
